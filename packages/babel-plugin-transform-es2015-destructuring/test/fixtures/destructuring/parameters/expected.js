@@ -1,4 +1,5 @@
 function somethingAdvanced(_ref, p2, p3) {
+  _ref = _ref || {};
   var _ref$topLeft = _ref.topLeft;
   _ref$topLeft = _ref$topLeft === undefined ? {} : _ref$topLeft;
   var x1 = _ref$topLeft.x;
